@@ -1,4 +1,4 @@
 # tutorials
 this is my new project
 
-author -vinay
+author -vinay(QA Engineer)
